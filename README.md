@@ -17,7 +17,7 @@ This repository showcases projects that explore the intersection of generative A
 
 - **Visual Example:**  
  ![License Plate Anonymization](./images/lp_ddpm_part2.jpg)
-  ![License Plate Anonymization](./images/lp_ddpm_part3.jpg)
+ ![License Plate Anonymization](./images/lp_ddpm_part3.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ This repository showcases projects that explore the intersection of generative A
   - Demonstrates significant improvements over conventional methods.
 
 - **Visual Overview:**  
-  ![Master Thesis Visual](./image.png)
+  ![Master Thesis Visual](./images/msc_thesis_part1.jpg)
 
 ---
 
@@ -45,17 +45,8 @@ This repository showcases projects that explore the intersection of generative A
   - Automatically generates detailed product descriptions to enhance online listings.
 
 - **Visual Example:**  
-  ![Retail Product Generation](./image.png)
+  ![Retail Product Generation](./images/retail_genai_part1.jpg)
+  ![Retail Product Generation](./images/retail_genai_part2.jpg)
 
 ---
 
-## Additional Visuals
-
-For further insight into these projects, please refer to the following additional visuals:
-
-- ![Additional Visual](./image.png)
-- ![Additional Visual](./image.png)
-
----
-
-Feel free to explore the repository for more detailed documentation, code examples, and experimental results. Contributions and feedback are highly welcome!
